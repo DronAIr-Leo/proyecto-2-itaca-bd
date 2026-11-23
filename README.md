@@ -1,10 +1,10 @@
-# Proyecto 4 · Ingesta ITACA desde BD relacional
+# Proyecto 2 · Ingesta ITACA desde BD relacional
 
 Ingesta batch de datos académicos de ITACA desde PostgreSQL hacia la zona `raw` del proyecto, con anonimización del NIA.
 
 ## Estructura
 
-    proyecto-4-itaca-bd/
+    proyecto-2-itaca-bd/
     ├── ingesta/
     │   ├── ingesta_itaca_bd.py     # Script de ingesta
     │   └── verificar_ingesta.py    # Verificación de consistencia
